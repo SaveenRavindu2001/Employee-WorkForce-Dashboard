@@ -28,7 +28,7 @@ Interactive Employee Workforce Dashboard showcasing key HR metrics, employee att
 
 ## Image of the Dashboard
 
-- <a href="Screenshot 2026-11-10 125552.png">Image</a>
+- <a href="https://github.com/SaveenRavindu2001/Employee-WorkForce-Dashboard/blob/main/Screenshot%202026-11-10%20125552.png">Image</a>
 
 ## Process
 
