@@ -46,8 +46,6 @@ Interactive Employee Workforce Dashboard showcasing key HR metrics, employee att
 
 ## Final Conclusion
 
-Final Conclusion
-
 The Employee Workforce Dashboard provides valuable insights into employee data, workforce trends, and HR performance. It simplifies data analysis through interactive visualizations and dynamic filters, helping HR teams monitor key metrics, identify trends, and make informed, data-driven decisions.
   
 
