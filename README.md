@@ -11,7 +11,7 @@ Interactive Employee Workforce Dashboard showcasing key HR metrics, employee att
 
 ## Dataset Used
 
-- <a href="Employee WorkForce Dashboard.xlsm">Data Set</a>
+- <a href="https://github.com/SaveenRavindu2001/Employee-WorkForce-Dashboard/blob/main/Employee%20WorkForce%20Dashboard.xlsx">Data Set</a>
 
 ## Questions (KPI's)
 
